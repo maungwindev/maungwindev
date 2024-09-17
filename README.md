@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Maung Win 👻
 
-<!--
-**maungwindev/maungwindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mobile Developer in Myanmar 🌍
 
-Here are some ideas to get you started:
+[![Portfolio Badge](https://img.shields.io/badge/-Profile.me-f7c307?style=flat&labelColor=f7c307&logo=react&logoColor=black)](https://www.facebook.com/maungwin/)
+[![Facebook Badge](https://img.shields.io/badge/-maungwin-1874ed?style=flat&labelColor=1874ed&logo=facebook&logoColor=white)](https://www.facebook.com/maungwin/) [![Mail Badge](https://img.shields.io/badge/-mgwin.developer.2000@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mgwin.developer.2000@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently working at PassionGeek | [https://passiongeek.com]
+- 🤔 I’m trying to become a software engineer.
+- 📫 How to reach me: mgwin.developer.2000@gmail.com.
+- 😄 Pronouns: he/him.
+
+#### I can make cool things with
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=white&logo=laravel&logoColor=fb503b )](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-3fa0ee?style=for-the-badge&labelColor=white&logo=flutter&logoColor=3fa0ee )](#) 
