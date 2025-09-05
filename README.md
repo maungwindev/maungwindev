@@ -1,4 +1,4 @@
-## Hey, I'm Maung Win 👻
+## Hey, I'm Maung Win 
 
 I'm Mobile Developer in Myanmar 🌍
 
