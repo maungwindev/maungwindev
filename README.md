@@ -16,7 +16,8 @@ I'm Mobile Developer in Myanmar 🌍
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=white&logo=laravel&logoColor=fb503b )](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-3fa0ee?style=for-the-badge&labelColor=white&logo=flutter&logoColor=3fa0ee )](#) 
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=white&logo=laravel&logoColor=fb503b )](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-3fa0ee?style=for-the-badge&labelColor=white&logo=flutter&logoColor=3fa0ee )](#) ![Node Current](https://img.shields.io/node/v/:packageName?style=for-the-badge&logo=node&logoColor=ffffff)
+
 
 ![Contribution Snake Light](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-light.svg#gh-dark-mode-only)
 ![Contribution Snake Dark](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-light-mode-only)
